@@ -1,0 +1,11 @@
+E:\Unity Projects\Vol\Vol2_DarkMaze\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+E:\Unity Projects\Vol\Vol2_DarkMaze\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\Unity Projects\Vol\Vol2_DarkMaze\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\Unity Projects\Vol\Vol2_DarkMaze\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\Unity Projects\Vol\Vol2_DarkMaze\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+E:\Unity Projects\Vol\Vol2_DarkMaze\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\Unity Projects\Vol\Vol2_DarkMaze\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\Unity Projects\Vol\Vol2_DarkMaze\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+E:\Unity Projects\Vol\Vol2_DarkMaze\obj\Debug\UnityVS.Vol2_DarkMaze.CSharp.Plugins.csprojResolveAssemblyReference.cache
+E:\Unity Projects\Vol\Vol2_DarkMaze\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\Unity Projects\Vol\Vol2_DarkMaze\obj\Debug\Assembly-CSharp-firstpass.pdb

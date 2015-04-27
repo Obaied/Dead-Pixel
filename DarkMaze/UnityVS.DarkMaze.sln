@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.DarkMaze.CSharp.Plugins", "UnityVS.DarkMaze.CSharp.Plugins.csproj", "{D4ACD77D-E971-90EB-FA63-09C21E7D453D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.DarkMaze.CSharp", "UnityVS.DarkMaze.CSharp.csproj", "{D0B99692-8B6E-5853-5BF3-8598FBB5B150}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.DarkMaze.CSharp.Editor.Plugins", "UnityVS.DarkMaze.CSharp.Editor.Plugins.csproj", "{68B66247-A7AE-C57E-28AB-595AD0CF15C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.DarkMaze.CSharp.Editor", "UnityVS.DarkMaze.CSharp.Editor.csproj", "{0BEC256A-2967-BA25-E02A-413B4FBDF912}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4ACD77D-E971-90EB-FA63-09C21E7D453D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4ACD77D-E971-90EB-FA63-09C21E7D453D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4ACD77D-E971-90EB-FA63-09C21E7D453D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4ACD77D-E971-90EB-FA63-09C21E7D453D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0B99692-8B6E-5853-5BF3-8598FBB5B150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0B99692-8B6E-5853-5BF3-8598FBB5B150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0B99692-8B6E-5853-5BF3-8598FBB5B150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0B99692-8B6E-5853-5BF3-8598FBB5B150}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68B66247-A7AE-C57E-28AB-595AD0CF15C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B66247-A7AE-C57E-28AB-595AD0CF15C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B66247-A7AE-C57E-28AB-595AD0CF15C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B66247-A7AE-C57E-28AB-595AD0CF15C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BEC256A-2967-BA25-E02A-413B4FBDF912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BEC256A-2967-BA25-E02A-413B4FBDF912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BEC256A-2967-BA25-E02A-413B4FBDF912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BEC256A-2967-BA25-E02A-413B4FBDF912}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
